@@ -1,4 +1,4 @@
-# 🦋​🦄​ Hibernate Practice
+# 🦋​🦄​ Hibernate Practica 0
 
 > Proyecto de gestión de socios y actividades de un club deportivo usando **Java** y **Hibernate**.  
 > Autor: **Lucía Zamudio**
